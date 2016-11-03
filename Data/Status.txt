@@ -1,11 +1,11 @@
-Batch ID: demo
-Total: 165
-Pass: 139
-Fail: 11
-Fail OD: 7
-Backwards: 0
-N/A: 8
-Downstream Counter: 113626
+Batch ID: 170683audit
+Total: 117
+Pass: 61
+Fail: 43
+Fail OD: 1
+Backwards: 7
+N/A: 5
+Downstream Counter: 1312
  Lost to Homing: 0
 Batch Homes: 0
-Gate Lost: 1
+Gate Lost: 0

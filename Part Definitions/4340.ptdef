@@ -45,8 +45,8 @@ Defect Limit (mm^2) = 0.025000
 Min Hole Dia (mm) = 2.490000    
 Obstruction Limit (mm^2) = 0.050000    
 Chip Deviation (#StDv) = 2.900000    
-Chip Search OD (mm) = 3.900000    
-Chip Area Limit (mm^2) = 0.055000    
+Chip Search OD (mm) = 4.200000    
+Chip Area Limit (mm^2) = 0.045000    
 Chip Search ID (mm) = 3.250000    
 
 [PartDef.OD Profile Analysis Settings.Length Limits (mm)]
