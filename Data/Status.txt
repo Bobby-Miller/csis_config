@@ -1,0 +1,11 @@
+Batch ID: demo
+Total: 165
+Pass: 139
+Fail: 11
+Fail OD: 7
+Backwards: 0
+N/A: 8
+Downstream Counter: 113626
+ Lost to Homing: 0
+Batch Homes: 0
+Gate Lost: 1
