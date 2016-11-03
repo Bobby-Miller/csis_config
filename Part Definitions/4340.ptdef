@@ -23,8 +23,8 @@ Defect Limit (mm^2) = 0.150000
 
 [PartDef.RE Analysis Settings.Small Dark Defect Inner]
 Deviation (# StDv) = 1.900000    
-Filter Size (mm^2) = 0.005000    
-Defect Limit (mm^2) = 0.015000    
+Filter Size (mm^2) = 0.015000    
+Defect Limit (mm^2) = 0.025000    
 
 [PartDef.RE Analysis Settings.Bright Defects Outer]
 Deviation (# StDv) = 1.700000    
@@ -39,15 +39,15 @@ Defect Limit (mm^2) = 0.090000
 [PartDef.RE Analysis Settings.Small Dark Defect Outer]
 Deviation (# StDv) = 1.950000    
 Filter Size (mm^2) = 0.005000    
-Defect Limit (mm^2) = 0.015000    
+Defect Limit (mm^2) = 0.025000    
 
 [PartDef.FE Analysis Settings]
 Min Hole Dia (mm) = 2.490000    
 Obstruction Limit (mm^2) = 0.050000    
 Chip Deviation (#StDv) = 2.900000    
-Chip Search OD (mm) = 4.200000    
-Chip Area Limit (mm^2) = 0.045000    
-Chip Search ID (mm) = 3.400000    
+Chip Search OD (mm) = 3.900000    
+Chip Area Limit (mm^2) = 0.055000    
+Chip Search ID (mm) = 3.250000    
 
 [PartDef.OD Profile Analysis Settings.Length Limits (mm)]
 Min = 26.490000    
@@ -71,7 +71,7 @@ Defect Limit (mm^2) = 0.100000
 [PartDef.Side Defect Analysis Settings.Spot/Crack Defects]
 Deviation (# StDv) = 3.350000    
 Filter Size (mm^2) = 0.031000    
-Defect Limit (mm^2) = 0.080000    
+Defect Limit (mm^2) = 0.090000    
 
 [PartDef.Side Defect Analysis Settings.Blemish Defects]
 Deviation (# StDv) = 4.000000    
